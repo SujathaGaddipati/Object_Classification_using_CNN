@@ -11,14 +11,14 @@
 
 ## Requirements
 - The code is implemented on a GPU system, where it takes 30 mins to complete the training. The following libraries need to be installed for loading and running the code  
-  *TensorFlow-GPU  
-  *Keras  
-  *OpenCV  
-  *Scikit-learn  
-  *Numpy  
-  *Pandas  
-  *Matplotlib  
-  *tqdm  
+      - TensorFlow-GPU    
+      - Keras  
+      - OpenCV  
+      - Scikit-learn  
+      - Numpy  
+      - Pandas  
+      - Matplotlib  
+      - tqdm  
   
 ## Running
 - The python file includes classification for 4 classes, but the number of classes can be modified. The directory path needs to provided for each image class. Once the libraries are installed, the code can run on any GPU system. It can also run on CPU system, but can go into memory issues.
